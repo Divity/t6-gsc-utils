@@ -1,4 +1,27 @@
-# t6-gsc-utils
+       # t6-gsc-utils
+   This fork adds 2 things to the original gsc utils
+
+1. Wallbang Everything
+
+2. Easy Bounce/all angle bouncing 
+
+see divity.cpp for how they work
+    
+    
+    
+    
+    See original functionality below
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
 T6 version of [iw5-gsc-utils](https://github.com/fedddddd/iw5-gsc-utils).  
 If you wish for any feature to be added please create an [issue](https://github.com/fedddddd/t6-gsc-utils/issues/new).
 
